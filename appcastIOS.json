@@ -1,0 +1,10 @@
+  { 
+  "Appcast": {
+    "PackageName": "com.herofis.herofis_app",
+    "CurrentVersion": "3.0.8",
+    "MinAppVersion": "3.0.6",
+    "ReleaseNotes": "• Performans iyileştirmeleri yapıldı.",
+    "IsCriticalUpdate": true,
+    "Url": "https://apps.apple.com/tr/app/herofis/id6480173449"
+    }
+  }
