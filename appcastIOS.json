@@ -6,6 +6,6 @@
     "ReleaseNotes": "• Performans iyileştirmeleri yapıldı.",
     "IsCriticalUpdate": true,
     "Url": "https://apps.apple.com/tr/app/herofis/id6480173449",
-    "BaseURL" : "https://test.pencad.net"
+    "BaseURL" : "https://api.pencad.net"
     }
   }
