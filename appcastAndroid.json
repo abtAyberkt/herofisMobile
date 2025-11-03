@@ -1,8 +1,8 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.0.10",
-    "MinAppVersion": "3.0.9",
+    "CurrentVersion": "3.0.11",
+    "MinAppVersion": "3.0.10",
     "ReleaseNotes": "• Performans iyileştirmeleri yapıldı.",
     "IsCriticalUpdate": true,
     "Url": "https://play.google.com/store/apps/details?id=com.herofis.herofis_app",
