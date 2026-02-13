@@ -1,9 +1,9 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.0.13",
-    "MinAppVersion": "3.0.12",
-    "ReleaseNotes": "• Performans iyileştirmeleri yapıldı.",
+    "CurrentVersion": "3.0.16",
+    "MinAppVersion": "3.0.15",
+    "ReleaseNotes": "• Performans iyileştirmeleri yapıldı. İş modülü geliştirmeleri eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://apps.apple.com/tr/app/herofis/id6480173449",
     "BaseURL" : "https://api.pencad.net"
