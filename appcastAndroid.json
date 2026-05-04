@@ -1,8 +1,8 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.0.25",
-    "MinAppVersion": "3.0.24",
+    "CurrentVersion": "3.0.26",
+    "MinAppVersion": "3.0.25",
     "ReleaseNotes": "E-fatura desteği eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://play.google.com/store/apps/details?id=com.herofis.herofis_app",
