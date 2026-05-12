@@ -1,9 +1,9 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.0.27",
+    "CurrentVersion": "3.0.28",
     "MinAppVersion": "3.0.27",
-    "ReleaseNotes": "• E-fatura desteği eklendi.",
+    "ReleaseNotes": "• Cari fiş işlemlerinde yaşanan hata düzeltildi.",
     "IsCriticalUpdate": true,
     "Url": "https://apps.apple.com/tr/app/herofis/id6480173449",
     "BaseURL" : "https://api.pencad.net"
