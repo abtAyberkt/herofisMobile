@@ -1,8 +1,8 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.1.2",
-    "MinAppVersion": "3.1.0",
+    "CurrentVersion": "3.1.3",
+    "MinAppVersion": "3.1.2",
     "ReleaseNotes": "• Sipariş oluşturma,düzenleme ve durum güncelleme işlemleri eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://apps.apple.com/tr/app/herofis/id6480173449",
