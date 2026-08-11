@@ -1,8 +1,8 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.2.0",
-    "MinAppVersion": "3.1.4",
+    "CurrentVersion": "3.1.4",
+    "MinAppVersion": "3.1.2",
     "ReleaseNotes": "• Alış faturası ve stok kartları oluşturma,düzenleme ve silme işlemleri eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://play.google.com/store/apps/details?id=com.herofis.herofis_app",
