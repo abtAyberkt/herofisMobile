@@ -1,9 +1,9 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.1.4",
-    "MinAppVersion": "3.1.3",
-    "ReleaseNotes": "• Banka fişleri için oluşturma, düzenleme, silme ve raporlama özellikleri eklendi.",
+    "CurrentVersion": "3.2.0",
+    "MinAppVersion": "3.1.4",
+    "ReleaseNotes": "• Alış faturası ve stok kartları oluşturma,düzenleme ve silme işlemleri eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://play.google.com/store/apps/details?id=com.herofis.herofis_app",
     "BaseURL" : "https://api.pencad.net"
