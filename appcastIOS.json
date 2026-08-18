@@ -1,9 +1,9 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.2.0",
-    "MinAppVersion": "3.1.2",
-    "ReleaseNotes": "• Alış faturası ve stok kartları oluşturma,düzenleme ve silme işlemleri eklendi.",
+    "CurrentVersion": "3.2.2",
+    "MinAppVersion": "3.2.1",
+    "ReleaseNotes": "• Uygulama içi menü ve sayfa arama özelliği eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://apps.apple.com/tr/app/herofis/id6480173449",
     "BaseURL" : "https://api.pencad.net"
