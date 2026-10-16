@@ -1,9 +1,9 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.2.2",
-    "MinAppVersion": "3.2.1",
-    "ReleaseNotes": "• Uygulama içi menü ve sayfa arama özelliği eklendi.",
+    "CurrentVersion": "3.2.3",
+    "MinAppVersion": "3.2.2",
+    "ReleaseNotes": "• Cari hesap hareketleri tasarımı güncellendi, ek bilgiler eklendi.",
     "IsCriticalUpdate": true,
     "Url": "https://play.google.com/store/apps/details?id=com.herofis.herofis_app",
     "BaseURL" : "https://api.pencad.net"
