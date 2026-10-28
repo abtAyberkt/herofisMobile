@@ -1,9 +1,9 @@
   { 
   "Appcast": {
     "PackageName": "com.herofis.herofis_app",
-    "CurrentVersion": "3.2.3",
-    "MinAppVersion": "3.2.2",
-    "ReleaseNotes": "• Cari hesap hareketleri tasarımı güncellendi, ek bilgiler eklendi.",
+    "CurrentVersion": "3.2.4",
+    "MinAppVersion": "3.2.3",
+    "ReleaseNotes": "• Cari tipi bilgisi ve değişimi eklendi, cari bilgileri düzenleme işlemi düzeltildi.",
     "IsCriticalUpdate": true,
     "Url": "https://apps.apple.com/tr/app/herofis/id6480173449",
     "BaseURL" : "https://api.pencad.net"
